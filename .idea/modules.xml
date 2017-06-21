@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros/angular-tour-of-heros.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros/angular-tour-of-heros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-masterAndDetail/angular-tour-of-heros-masterAndDetail.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-masterAndDetail/angular-tour-of-heros-masterAndDetail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-masterDetail.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-masterDetail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-multipleComponents/angular-tour-of-heros-multipleComponents.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-multipleComponents/angular-tour-of-heros-multipleComponents.iml" />
+    </modules>
+  </component>
+</project>
