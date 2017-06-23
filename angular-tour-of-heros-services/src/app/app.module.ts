@@ -1,20 +1,19 @@
-import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms'; //NgModel 사용
+import {NgModule}      from '@angular/core';
+import {BrowserModule} from '@angular/platform-browser';
+import {FormsModule}   from '@angular/forms';
 
-import { AppComponent } from './app.component';
+import {AppComponent}  from './app.component';
 import { HeroDetailComponent } from './hero-detail.component';
 
 @NgModule({
-  imports : [
+  imports: [
     BrowserModule,
-    FormsModule //NgModel을  사용하기 위해 import
+    FormsModule //NgModule 사용을 위함
   ],
   declarations: [
-    AppComponent
-    ,HeroDetailComponent
+    AppComponent,
+    HeroDetailComponent
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
