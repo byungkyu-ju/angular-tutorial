@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros/angular-tour-of-heros.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros/angular-tour-of-heros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-http/angular-tour-of-heros-http.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-http/angular-tour-of-heros-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-masterAndDetail/angular-tour-of-heros-masterAndDetail.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-masterAndDetail/angular-tour-of-heros-masterAndDetail.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-multipleComponents/angular-tour-of-heros-multipleComponents.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-multipleComponents/angular-tour-of-heros-multipleComponents.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-tour-of-heros-routing/angular-tour-of-heros-routing.iml" filepath="$PROJECT_DIR$/angular-tour-of-heros-routing/angular-tour-of-heros-routing.iml" />
